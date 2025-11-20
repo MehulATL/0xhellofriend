@@ -73,4 +73,5 @@ this episode establishes the show's paranoia, aesthetics, ethics, and tone — a
 - the in-therapy scenes set emotional baseline for elliot’s mental state without heavy exposition.
 - introducing tyrell *at the very end* is a power move — he’s framed like a ceo version of patrick bateman.
 - elliot’s narration isn’t exposition; it’s a confession.
+- his fish is named qwerty lmao.
 
