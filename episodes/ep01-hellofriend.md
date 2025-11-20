@@ -1,4 +1,4 @@
-> “sometimes i dream of saving the world.” — eliot alderson
+> “sometimes i dream of saving the world.” — elliot alderson
 
 ## **1. boot sequence (recap)**
 
@@ -74,4 +74,5 @@ this episode establishes the show's paranoia, aesthetics, ethics, and tone — a
 - introducing tyrell *at the very end* is a power move — he’s framed like a ceo version of patrick bateman.
 - elliot’s narration isn’t exposition; it’s a confession.
 - his fish is named qwerty lmao.
+- elliots's favorite movie is back to the future 2.
 
